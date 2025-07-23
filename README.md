@@ -40,8 +40,9 @@ The project includes insightful visualizations:
 ```markdown
 ![Salary Correlation Heatmap](images/salary_correlation.jpg)
 
+---
 
-##🧪 Models Used
+## 🧪 Models Used
 
 * Linear Regression ✅
 
